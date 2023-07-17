@@ -1,12 +1,12 @@
 baseURL: "https://friendly-rabanadas-e85116.netlify.app/"
 languageCode: "en-us"
-title: "Marble Sea"
+title: "Wide Open Space"
 theme: "PaperMod"
 
 params:
   homeInfoParams:
-    Title: '大理石海'
-    Content: '随便说些'
+    Title: '欢迎来到屋顶'
+    Content: '随便活一下'
   socialIcons:
     - name: mastodon
       url: "https://o3o.ca/@messiahismysis"
