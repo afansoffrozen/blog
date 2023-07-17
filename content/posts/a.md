@@ -20,11 +20,15 @@ cover:
 
 https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3
 
+这是上手papermod的教程
+
+https://www.youtube.com/watch?v=hjD9jTi_DQ4&t=2372s
+
 这些是部署的部分：
 
 https://www.youtube.com/watch?v=hBQlCtfRmqs（从创建github账号开始新手友好）
 
-https://www.youtube.com/watch?v=hjD9jTi_DQ4&t=2372s
+
 
 ## 接下来要继续做的事情
 
