@@ -28,10 +28,7 @@ https://www.youtube.com/watch?v=hjD9jTi_DQ4&t=2372s
 
 ## 接下来要继续做的事情
 
--[] 买一个漂亮的域名
-
--[] 把图片放在home page上
-
--[] categories的样式修改下，想要做成和tags不一样的收藏夹样式
-
--[] 怎么用vs code直接修改发布呢
+- [ ] 买一个漂亮的域名
+- [ ]  把图片放在home page上
+- [ ] categories的样式修改下，想要做成和tags不一样的收藏夹样式
+- [ ] 怎么用vs code直接修改发布呢
