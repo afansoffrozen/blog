@@ -1,0 +1,34 @@
+baseURL: ""
+languageCode: "en-us"
+title: "Marble Sea"
+theme: "PaperMod"
+
+params:
+  homeInfoParams:
+    Title: '大理石海'
+    Content: '随便说些'
+  socialIcons:
+    - name: mastodon
+      url: "https://o3o.ca/@messiahismysis"
+  
+  ShowReadingTime: true
+
+  ShowBreadCrumbs: true
+
+  ShowPostNavLinks: true
+      
+
+menu:
+  main:
+    - name: "Categories"
+      identifier: "categories"
+      url: "/categories/"
+      weight: 10
+    - name: "Tags"
+      identifier: "tags"
+      url: "/tags/"
+      weight: 20
+    - name: "Archives"
+      identifier: "archives"
+      url: "/archives/"
+      weight: 30
