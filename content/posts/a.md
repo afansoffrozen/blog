@@ -7,6 +7,7 @@ cover:
     alt: "<alt text>"
     caption: "<text>"
     relative: false 
+tags: ["测试"]
 ---
 
 ## 今天为了学画来继续搭博客
@@ -20,19 +21,18 @@ cover:
 
 https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3
 
-这是上手papermod的教程
-
-https://www.youtube.com/watch?v=hjD9jTi_DQ4&t=2372s
-
 这些是部署的部分：
 
 https://www.youtube.com/watch?v=hBQlCtfRmqs（从创建github账号开始新手友好）
 
-
+https://www.youtube.com/watch?v=hjD9jTi_DQ4&t=2372s
 
 ## 接下来要继续做的事情
 
-- [ ] 买一个漂亮的域名
-- [ ]  把图片放在home page上
-- [ ] categories的样式修改下，想要做成和tags不一样的收藏夹样式
-- [ ] 怎么用vs code直接修改发布呢
+[] 买一个漂亮的域名
+
+[] 把图片放在home page上
+
+[] categories的样式修改下，想要做成和tags不一样的收藏夹样式
+
+[] 怎么用vs code直接修改发布呢
