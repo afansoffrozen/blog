@@ -20,15 +20,25 @@ params:
 
 menu:
   main:
-    - name: "Categories"
+    - name: "分类"
       identifier: "categories"
       url: "/categories/"
       weight: 10
-    - name: "Tags"
+    - name: "标签"
       identifier: "tags"
       url: "/tags/"
       weight: 20
-    - name: "Archives"
+    - name: "归档"
       identifier: "archives"
       url: "/archives/"
       weight: 30
+    - name: "检索"
+      identifier: "search"
+      url: "/search/"
+      weight: 40
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON 
