@@ -3,7 +3,6 @@ title: "测试"
 date: 2023-07-17T10:54:04+08:00
 draft: false
 cover:
-    image: img/blue.jpg
     alt: "<alt text>"
     caption: "<text>"
     relative: false 
@@ -46,3 +45,7 @@ https://www.youtube.com/watch?v=hjD9jTi_DQ4&t=2372s
 -  怎么用vs code直接修改发布呢
 
   可能和挂梯子也有关系。
+
+删掉了图片：
+cover:
+    image: img/blue.jpg

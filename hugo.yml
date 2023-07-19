@@ -5,7 +5,7 @@ theme: "PaperMod"
 
 params:
   homeInfoParams:
-    Title: '欢迎来到屋顶'
+    Title: '欢迎来到屋顶 '
     Content: '随便活一下'
   socialIcons:
     - name: mastodon
