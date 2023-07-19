@@ -7,7 +7,7 @@ h1::after {
   width: 30px;
   height: 2px;
   margin-left: 5px;
-  background-color: hsl(0, 0%, 0%);
+  background-color: var(--primary);
   animation: blink 0.7s infinite;
   transform: translateY(4px);
 }
@@ -22,11 +22,11 @@ h1::after {
 }
 </style>
 
-<article class="first-entry home-info" style="background-image: url('img/blue.jpg');background-size: cover;border-radius: 8px;">
+<article class="first-entry home-info" style="background-image: url('img/blue.jpg');background-size: cover;border-radius: var(--radius);">
     <header class="entry-header" style="position: absolute; top: 10%; left: 5%; width: 100%; ">
         <h1 id="animated-heading">{{ .Title | markdownify }}</h1>
     </header>
-    <div class="entry-content" style="position: absolute; top: 20%; left: 5%; width: 100%; color:#002240; ">
+    <div class="entry-content" style="position: absolute; top: 20%; left: 5%; width: 100%;">
         {{ .Content | markdownify }}
     </div>
     <footer class="entry-footer" style="position: absolute; top: 40%; left: 5%; width: 100%; ">
@@ -38,4 +38,3 @@ h1::after {
 
 {{- end -}}
    
-
