@@ -10,6 +10,10 @@ params:
   socialIcons:
     - name: mastodon
       url: "https://o3o.ca/@messiahismysis"
+    - name: github
+      url: "https://github.com/afansoffrozen"
+    - name: weibo
+      url: "https://weibo.com/u/7826245502"
   
   ShowReadingTime: true
 
