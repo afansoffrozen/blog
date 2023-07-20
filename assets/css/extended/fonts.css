@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "华康古籍木兰";
+    src: url("/fonts/华康古籍木兰 Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "家族宋";
+    src: url("/fonts/FmlSong-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "家族宋黑";
+    src: url("/fonts/FmlSong-Black.ttf") format("truetype");
+}

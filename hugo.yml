@@ -41,7 +41,7 @@ menu:
       identifier: "tags"
       url: "/tags/"
       weight: 20
-    - name: "很多字"
+    - name: "归档"
       identifier: "archives"
       url: "/archives/"
       weight: 30

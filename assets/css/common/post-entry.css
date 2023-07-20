@@ -55,17 +55,19 @@
 .entry-header h2 {
     font-size: 24px;
     line-height: 1.3;
+    font-family: 华康古籍木兰,家族宋;
 }
 
 .entry-content {
     margin: 8px 0;
     color: var(--primary);
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.6;
     overflow: hidden;
     display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 2;
+    font-family: 家族宋;
 }
 
 .entry-footer {
