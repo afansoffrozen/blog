@@ -33,7 +33,7 @@ params:
 
 menu:
   main:
-    - name: "分类"
+    - name: "小册"
       identifier: "categories"
       url: "/categories/"
       weight: 10
@@ -41,11 +41,11 @@ menu:
       identifier: "tags"
       url: "/tags/"
       weight: 20
-    - name: "归档"
+    - name: "很多字"
       identifier: "archives"
       url: "/archives/"
       weight: 30
-    - name: "检索"
+    - name: "随便看"
       identifier: "search"
       url: "/search/"
       weight: 40
