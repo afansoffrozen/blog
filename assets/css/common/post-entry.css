@@ -70,6 +70,16 @@
     font-family: 家族宋;
 }
 
+.entry-content1 {
+    margin: 8px 0;
+    color: var(--primary);
+    font-size: 16px;
+    line-height: 1.6;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+}
 .entry-footer {
     color: var(--secondary);
     font-size: 13px;
